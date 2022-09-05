@@ -1,0 +1,2 @@
+# Desktop-application-to-control-factory-machines-iot-
+Remote control software for one of the factory machines. This program was completed in the "Future Science" hackathon. The program was part of the iot project that we did and it is responsible for the overall control. The program displays the number of completed goods. The speed of the motors, the reverse rotation, and the extinguishing or ignition of the machines can also be controlled.
